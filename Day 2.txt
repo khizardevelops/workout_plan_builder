@@ -1,4 +1,4 @@
-Day 2: Lower Body A (Focus: Quad Dominant)
+Day 2: Back, Core, & Hamstring
     1. Squats
         Sets: 4
         Reps: 8-12
@@ -10,8 +10,25 @@ Day 2: Lower Body A (Focus: Quad Dominant)
     3. Hanging Leg Raises
         Sets: 3
         Reps: 10-15
-        Target: Lower Core: Abs
-    4. Lateral Raises
+        Target: Lower Core, Abs
+    4. Chest Supported Row
+        Sets: 3
+        Reps: 8-12
+        Target: Upper Back, Lats, Traps, Rear Delts
+    5. Lat Pulldowns
+        Sets: 3
+        Reps: 8-12
+        Target: Latissimus Dorsi, Lower-mid Back    
+    6. Lateral Raises
         Sets: 4
         Reps: 12-15
         Target: Side Delts
+    7. Reverse Pec Deck Flyes
+        Sets: 3
+        Reps: 12-15
+        Target: Rear Delts, Upper Back
+    8. Hamstring Curls
+        Sets: 3
+        Reps: 12-15
+        Target: Legs, Hamstring
+         

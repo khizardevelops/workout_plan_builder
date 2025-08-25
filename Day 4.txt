@@ -1,9 +1,29 @@
-Day 4: Lower Body B (Focus: Hip Dominant / Posterior Chain)
+Day 4: Back, Core, Legs
     1. Deadlifts
         Sets: 3
         Reps: 5-8
         Target: Lower Back, Glutes, Hamstrings
-    2. Hanging Leg Raises
+    2. Cable Crunches
         Sets: 3
         Reps: 10-15
-        Target: Core, Abs
+        Target: Upper Core, Abs
+    3. Hanging Leg Raises
+        Sets: 3
+        Reps: 10-15
+        Target: Lower Core, Abs
+    4. Chest Supported Row
+        Sets: 3
+        Reps: 8-12
+        Target: Upper Back, Lats, Traps, Rear Delts
+    5. Lat Pulldowns
+        Sets: 3
+        Reps: 8-12
+        Target: Latissimus Dorsi, Lower-mid Back    
+    6. Lateral Raises
+        Sets: 4
+        Reps: 12-15
+        Target: Side Delts
+    7. Reverse Pec Deck Flyes
+        Sets: 3
+        Reps: 12-15
+        Target: Rear Delts, Upper Back        
