@@ -2,15 +2,16 @@ Day 3: Upper Body B (Focus: Vertical Push/Pull & Strength)
     1. Barbell Overhead Press
         Sets: 3
         Reps: 6-10
-        Target: Shoulders
-    2. Pull-Ups or Lat Pulldowns (if needed)
+        Target: Front Shoulders
+    2. Lat Pulldowns
         Sets: 3
-        Reps: 6-10 (or to failure)
+        Reps: 6-10
         Target: Lats
     3. Chest Supported Row
         Sets: 3
         Reps: 8-12
-    4. Dips (Chest Version)
+        Target: Upper Back, Lats, Traps, Rear Delts
+    4. Dips
         Sets: 3
         Reps: 8-12
         Target: Chest, Triceps
@@ -26,4 +27,3 @@ Day 3: Upper Body B (Focus: Vertical Push/Pull & Strength)
         Sets: 2 each
         Reps: 12-15
         Target: Forearms
-

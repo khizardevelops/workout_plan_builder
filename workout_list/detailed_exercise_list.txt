@@ -1,0 +1,89 @@
+1. Barbell Squats
+        Sets: 3
+        Reps: 8-12
+        Target: Glutes, Hamstrings, Quadriceps
+
+2. Cable Crunches
+        Sets: 3
+        Reps: 12
+        Target: Upper Abdominals (Abs)
+
+3. Chest Supported Row
+        Sets: 3
+        Reps: 8-12
+        Target: Upper-Mid Back, Lats, Traps, Delts
+
+4. Lat Pulldowns
+        Sets: 3
+        Reps: 8-12
+        Target: Latissimus Dorsi
+
+5. Low-to-high cable fly
+        Sets: 2
+        Reps: 8-12
+        Target: Upper Chest
+
+6. High-to-low cable fly
+        Sets: 2
+        Reps: 8-12
+        Target: Lower Chest
+
+7. Flat Bench Press
+        Sets: 2
+        Reps: 8-12
+        Target: Middle Chest
+
+8. Tricep Extension
+        Sets: 3
+        Reps: 8-12
+        Target: Triceps
+
+9. Bicep Curl
+        Sets: 3
+        Reps: 8-12
+        Target: Long & Short Heads of the Biceps
+
+10. Hammer Curls
+        Sets: 2
+        Reps: 8-12
+        Target: Brachialis
+
+11. Palms-up Wrist Curls
+        Sets: 2
+        Reps: 8-12
+        Target: Forearms
+
+12. Palms-down Wrist Curls
+        Sets: 2
+        Reps: 8-12
+        Target: Forearms
+
+13. Reverse Pec Deck Flyes
+        Sets: 3
+        Reps: 8-12
+        Target: Upper Back, Rear Delts
+
+14. Lateral Raises
+        Sets: 3
+        Reps: 8-12
+        Target: Side Delts
+
+15. Deadlifts
+        Sets: 3
+        Reps: 8-12
+        Target: Lower Back, Glutes, Erector Spinae
+
+16. Hanging Leg Raises
+        Sets: 3
+        Reps: 8-12
+        Target: Lower Abdominals (Abs)
+
+17. Dips
+        Sets: 3
+        Reps: 8-12
+        Target: Triceps, Delts
+
+18. Barbell Overhead Press
+        Sets: 3
+        Reps: 8-12
+        Target: Front Shoulder Delts

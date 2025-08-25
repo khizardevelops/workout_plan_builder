@@ -1,0 +1,20 @@
+// [exercise_name] : [weekly_frequency] //
+
+Barbell Squats : 1
+Cable Crunches : 3
+Chest Supported Row : 3
+Lat Pulldowns : 3
+Low-to-high cable fly : 3
+High-to-low cable fly : 3
+Flat Bench Press : 3
+Tricep Extension : 3
+Bicep Curl : 3
+Hammer Curls : 3
+Palms-up Wrist Curls : 2
+Palms-down Wrist Curls : 2
+Reverse Pec Deck Flyes : 3
+Lateral Raises : 3
+Deadlifts : 2
+Hanging Leg Raises : 3
+Dips : 2
+Overhead Press : 2

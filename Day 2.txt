@@ -3,24 +3,15 @@ Day 2: Lower Body A (Focus: Quad Dominant)
         Sets: 4
         Reps: 8-12
         Target: Glutes, Hamstrings, Quadriceps
-    2. Leg Press
+    2. Cable Crunches
         Sets: 3
         Reps: 10-15
-        Target: Quads, Glutes
-    3. Leg Extensions
-        Sets: 3
-        Reps: 12-15
-        Target: Quadriceps
-    4. Lying Leg Curls
+        Target: Upper Core, Abs
+    3. Hanging Leg Raises
         Sets: 3
         Reps: 10-15
-        Target: Hamstrings
-    5. Cable Crunches
-        Sets: 3
-        Reps: 12-15
-        Target: Abs
-    6. Standing Calf Raises
+        Target: Lower Core: Abs
+    4. Lateral Raises
         Sets: 4
-        Reps: 15-20
-        Target: Calves
-
+        Reps: 12-15
+        Target: Side Delts
