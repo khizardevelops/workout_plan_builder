@@ -81,7 +81,7 @@ def compile_txt_files(input_folder, output_file, add_separators=True, include_fi
 
 # ===== HARDCODED CONFIGURATION - MODIFY THESE VALUES =====
 INPUT_FOLDER = r"./"  # Your input folder path
-OUTPUT_FILE = r"./final_workout/5_day_workout_compiled.txt"  # Your output file path
+OUTPUT_FILE = r"./final_workout/final_workout_plan.txt"  # Your output file path
 ADD_SEPARATORS = True  # Set to False to remove separators between files
 INCLUDE_FILENAMES = False  # Set to False to remove filename headers
 
