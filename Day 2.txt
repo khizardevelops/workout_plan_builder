@@ -1,6 +1,6 @@
-Day 2: Back, Core, & Hamstring
+Day 2: Back, Core, Delts, & Legs
     1. Squats
-        Sets: 4
+        Sets: 3
         Reps: 8-12
         Target: Glutes, Hamstrings, Quadriceps
     2. Cable Crunches
@@ -20,7 +20,7 @@ Day 2: Back, Core, & Hamstring
         Reps: 8-12
         Target: Latissimus Dorsi, Lower-mid Back    
     6. Lateral Raises
-        Sets: 4
+        Sets: 3
         Reps: 12-15
         Target: Side Delts
     7. Reverse Pec Deck Flyes
@@ -31,4 +31,9 @@ Day 2: Back, Core, & Hamstring
         Sets: 3
         Reps: 12-15
         Target: Legs, Hamstring
-         
+
+
+
+
+
+

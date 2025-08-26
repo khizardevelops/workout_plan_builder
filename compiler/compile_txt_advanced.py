@@ -32,9 +32,13 @@ def compile_txt_files(input_folder, output_file, add_separators=True, include_fi
             for i, txt_file in enumerate(txt_files):
                 try:
                     with open(txt_file, 'r', encoding='utf-8') as infile:
-                        # Add separator and filename if requested
+                        # Read content and remove trailing empty lines
+                        content = infile.read()
+                        content = content.rstrip() + '\n'  # Remove trailing whitespace and add single newline
+                        
+                        # Add separator, white spaces above and below, and filename if requested
                         if add_separators and i > 0:
-                            outfile.write("\n\n" + "="*50 + "\n\n")
+                            outfile.write("\n" + "="*50 + "\n\n")
                         
                         if include_filenames:
                             outfile.write(f"File: {os.path.basename(txt_file)}\n")
@@ -42,7 +46,6 @@ def compile_txt_files(input_folder, output_file, add_separators=True, include_fi
                                 outfile.write("-" * 30 + "\n\n")
                         
                         # Write the content of the file
-                        content = infile.read()
                         outfile.write(content)
                         
                         # Update statistics
@@ -56,6 +59,7 @@ def compile_txt_files(input_folder, output_file, add_separators=True, include_fi
                     try:
                         with open(txt_file, 'r', encoding='latin-1') as infile:
                             content = infile.read()
+                            content = content.rstrip() + '\n'  # Remove trailing whitespace and add single newline
                             outfile.write(content)
                             total_files += 1
                             total_chars += len(content)
@@ -77,7 +81,7 @@ def compile_txt_files(input_folder, output_file, add_separators=True, include_fi
 
 # ===== HARDCODED CONFIGURATION - MODIFY THESE VALUES =====
 INPUT_FOLDER = r"./"  # Your input folder path
-OUTPUT_FILE = r"./5_day_workout_compiled.tx"  # Your output file path
+OUTPUT_FILE = r"./final_workout/5_day_workout_compiled.txt"  # Your output file path
 ADD_SEPARATORS = True  # Set to False to remove separators between files
 INCLUDE_FILENAMES = False  # Set to False to remove filename headers
 

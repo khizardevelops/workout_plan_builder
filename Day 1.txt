@@ -1,4 +1,4 @@
-Day 1: Chest, Arms, & Calfs 
+Day 1: Chest, Arms, Forarms, & Legs
     1. Flat Bench Press
         Sets: 2
         Reps: 8-12
@@ -10,7 +10,7 @@ Day 1: Chest, Arms, & Calfs
     3. High-to-low cable fly
         Sets: 2
         Reps: 8-12
-        Target: Lower Chest    
+        Target: Lower Chest
     4. Tricep Extension
         Sets: 3
         Reps: 10-15
@@ -32,4 +32,8 @@ Day 1: Chest, Arms, & Calfs
         Reps: 8-12
         Target: Legs, Quads
 
-  
+
+
+
+
+
